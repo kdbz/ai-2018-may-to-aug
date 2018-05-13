@@ -23,7 +23,6 @@ print('The sum of ∑_i∈N i*i =',sum( i**2 for i in N ) )
 
 This course is broken up into a number of notebooks (chapters).
 
-* [00](00.ipynb) This introduction with additional information below on how to get started in running python
 * [01](01.ipynb) Basic data types and operations (numbers, strings) 
 * [02](02.ipynb) String manipulation 
 * [03](03.ipynb) Data structures: Lists and Tuples
