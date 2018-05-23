@@ -4,3 +4,8 @@
 
 ##### Basic Pseudocode
 ![Basic Pseudocode](/resources/simple-reflex-russel_n_norvig.png)
+
+
+##### References
+
+- [https://github.com/xh3n1/AI](https://github.com/xh3n1/AI)
