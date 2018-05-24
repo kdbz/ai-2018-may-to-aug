@@ -9,3 +9,6 @@
 ##### References
 
 - [https://github.com/xh3n1/AI](https://github.com/xh3n1/AI)
+
+
+> _"Man descended from apes, therefore we must love one another." Vladimir Solovyov { A sarcast summary of the ethical reasoning of secular humanism}_ ✍ ✍

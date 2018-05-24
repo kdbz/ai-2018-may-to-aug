@@ -38,3 +38,5 @@ This is a tutorial style introduction to Python. For a quick reminder / summary 
 ## @Credits
 - [Rajath Kumar](https://github.com/rajathkumarmp/Python-Lectures) - The original author
 - [Andreas Ernst](http://users.monash.edu.au/~andreas) - Updated notebook code compatibility for python3
+
+>__ ✍ ✍
